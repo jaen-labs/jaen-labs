@@ -3,14 +3,12 @@
 <h3 align="center">Ingeniero Electrónico — Automatización Industrial, Embebidos e IoT desde Cajamarca, Perú 🇵🇪</h3>
 </div>
 
----
-
 <br/>
 
-<table>
+<table border="0" cellpadding="50" cellspacing="0">
 <tr>
 <td width="400">
-<img align="left" width="400" style="margin: 200px;" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<img align="left" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </td>
 <td>
 
@@ -27,9 +25,9 @@
 </tr>
 </table>
 
-<br/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaen-labs&label=Profile%20views&color=0e75b6&style=flat" alt="jaen-labs" /> </p>
+
+---
 
 <br/>
 
