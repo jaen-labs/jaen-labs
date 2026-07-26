@@ -1,31 +1,41 @@
-<h1 align="center">Hola 👋, soy <a href="[tu link de portafolio]" target="blank">Saul</a></h1>
+<div align="center">
+<h1 align="center">Hola 👋, soy <a href="[tu link de portafolio]" target="_blank">Saul</a></h1>
 <h3 align="center">Ingeniero Electrónico — Automatización Industrial, Embebidos e IoT desde Cajamarca, Perú 🇵🇪</h3>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaen-labs&label=Profile%20views&color=0e75b6&style=flat" alt="jaen-labs" /> </p>
+---
 
-<p align="left">
-<a href="https://twitter.com/[tu-usuario]" target="blank"><img src="https://img.shields.io/twitter/follow/[tu-usuario]?logo=twitter&style=for-the-badge" alt="[tu-usuario]" /></a>
-</p>
+<br/>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+<table>
+<tr>
+<td width="400">
+<img align="left" width="400" style="margin: 200px;" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</td>
+<td>
 
-- 🔭 Actualmente 
+- 🔭 Actualmente trabajando en **AYNI**, un asistente de IA personal (ESP32, Qwen 2.5, Whisper, Home Assistant)
 - ⚙️ Experiencia en automatización industrial: del diseño a la ejecución en campo
 - 🧠 Integro IA en soluciones técnicas embebidas
 - 🌱 Aprendiendo Machine Learning aplicado a Edge AI
 - 🤝 Abierto a proyectos remotos de electrónica/embebidos/IoT
 - 💬 Pregúntame sobre **sistemas embebidos, automatización industrial e IoT**
 - 📫 Cómo contactarme: **[tu email]**
-- 📄 Conoce mi experiencia: <a href="[link a tu CV/resume]" target="blank">Currículum</a>
+- 📄 Conoce mi experiencia: <a href="[link a tu CV/resume]" target="_blank">Currículum</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaen-labs&label=Profile%20views&color=0e75b6&style=flat" alt="jaen-labs" /> </p>
 
 <br/>
 
 <h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conecta conmigo 🤝 </h3>
 
-<p align="center">
- <div align="center" class="icons-social" style="margin-left: 10px;">
+<div align="center" class="icons-social">
     <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/[tu-usuario]/">
       <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
     <a style="margin-left: 10px;" target="_blank" href="https://github.com/jaen-labs">
@@ -38,8 +48,7 @@
       <img src="https://img.icons8.com/doodle/1x/youtube--v2.png"></a>
     <a style="margin-left: 5px;" target="_blank" href="[link a tu CV/resume]">
       <img src="https://img.icons8.com/plasticine/0.5x/resume.png"></a>
-  </div>
-</p>
+</div>
 
 <br/>
 
@@ -61,5 +70,6 @@
 <br/>
 
 ---
+
 Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
 Last Edited on: 25/07/2026
