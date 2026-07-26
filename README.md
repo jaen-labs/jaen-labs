@@ -11,7 +11,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 Actualmente trabajando en **AYNI**, un asistente de IA personal (ESP32, Qwen 2.5, Whisper, Home Assistant)
+- 🔭 Actualmente 
 - ⚙️ Experiencia en automatización industrial: del diseño a la ejecución en campo
 - 🧠 Integro IA en soluciones técnicas embebidas
 - 🌱 Aprendiendo Machine Learning aplicado a Edge AI
