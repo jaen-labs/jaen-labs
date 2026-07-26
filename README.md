@@ -31,11 +31,21 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[tu-usuario]/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaen-labs)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/[tu-usuario])
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ie.samp@gmail.com)
-[![CV](https://img.shields.io/badge/CV-Ver%20Currículum-000000?style=for-the-badge&logo=readdotcv&logoColor=white)](link-a-tu-cv)
+<a href="https://www.linkedin.com/in/[tu-usuario]/" title="LinkedIn: [tu-usuario]" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/jaen-labs" title="GitHub: jaen-labs" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://facebook.com/ei.samp" title="Facebook: ei.samp" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="mailto:ie.samp@gmail.com" title="ie.samp@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="[link-a-tu-cv]" title="Ver Currículum" target="_blank">
+<img src="https://img.shields.io/badge/CV-Ver%20Currículum-000000?style=for-the-badge&logo=readdotcv&logoColor=white" />
+</a>
 
 </div>
 
