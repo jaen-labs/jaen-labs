@@ -29,8 +29,6 @@
 </tr>
 </table>
 
-<br/>
-
 <h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conecta conmigo 🤝 </h3>
 
 <div align="center" class="icons-social">
@@ -47,6 +45,8 @@
     <a style="margin-left: 5px;" target="_blank" href="[link a tu CV/resume]">
       <img src="https://img.icons8.com/plasticine/0.5x/resume.png"></a>
 </div>
+
+---
 
 <br/>
 
