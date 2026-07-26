@@ -29,21 +29,14 @@
 </tr>
 </table>
 
-<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conecta conmigo 🤝 </h3>
+<div align="center">
 
-<div align="center" class="icons-social">
-    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/[tu-usuario]/">
-      <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-    <a style="margin-left: 10px;" target="_blank" href="https://github.com/jaen-labs">
-      <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-    <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/[tu-usuario]">
-      <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-    <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/[tu-usuario]">
-      <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png"></a>
-    <a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/[tu-canal]">
-      <img src="https://img.icons8.com/doodle/1x/youtube--v2.png"></a>
-    <a style="margin-left: 5px;" target="_blank" href="[link a tu CV/resume]">
-      <img src="https://img.icons8.com/plasticine/0.5x/resume.png"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[tu-usuario]/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaen-labs)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/[tu-usuario])
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ie.samp@gmail.com)
+[![CV](https://img.shields.io/badge/CV-Ver%20Currículum-000000?style=for-the-badge&logo=readdotcv&logoColor=white)](link-a-tu-cv)
+
 </div>
 
 ---
