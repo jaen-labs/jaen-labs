@@ -6,20 +6,22 @@
 <br/>
 
 <table border="0" cellpadding="50" cellspacing="0">
-<tr>
-<td width="400">
-<img align="left" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</td>
-<td>
+    <tr>
+        <td width="50%">
+            <div align="center">
+                <img width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+            </div>
+        </td>
+        <td width="50%">
 
-- 🔭 Actualmente trabajando en **AYNI**, un asistente de IA personal (ESP32, Qwen 2.5, Whisper, Home Assistant)
-- ⚙️ Experiencia en automatización industrial: del diseño a la ejecución en campo
-- 🧠 Integro IA en soluciones técnicas embebidas
-- 🌱 Aprendiendo Machine Learning aplicado a Edge AI
-- 🤝 Abierto a proyectos remotos de electrónica/embebidos/IoT
-- 💬 Pregúntame sobre **sistemas embebidos, automatización industrial e IoT**
-- 📫 Cómo contactarme: **[tu email]**
-- 📄 Conoce mi experiencia: <a href="[link a tu CV/resume]" target="_blank">Currículum</a>
+        - 🔭 Actualmente trabajando en **AYNI**, un asistente de IA personal (ESP32, Qwen 2.5, Whisper, Home Assistant)
+        - ⚙️ Experiencia en automatización industrial: del diseño a la ejecución en campo
+        - 🧠 Integro IA en soluciones técnicas embebidas
+        - 🌱 Aprendiendo Machine Learning aplicado a Edge AI
+        - 🤝 Abierto a proyectos remotos de electrónica/embebidos/IoT
+        - 💬 Pregúntame sobre **sistemas embebidos, automatización industrial e IoT**
+        - 📫 Cómo contactarme: **[tu email]**
+        - 📄 Conoce mi experiencia: <a href="[link a tu CV/resume]" target="_blank">Currículum</a>
 
 </td>
 </tr>
