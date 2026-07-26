@@ -7,7 +7,7 @@
 <table>
 <tr>
 <td width="50%" align="center">
-<img align="center" top="500" height="300" width="500" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHo4bW15b3J3YTZ0MGFybXpsMmRwMWxtMTluc21vMDl3ZWs4ZXVuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif">
+<img align="center" top="500" height="300" width="500" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </td>
 <td>
 
