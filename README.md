@@ -72,5 +72,5 @@
 
 ---
 
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
+Credit: [Saurabh Chavan](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/tree/master/templates)
 Last Edited on: 25/07/2026
